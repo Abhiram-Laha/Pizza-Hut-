@@ -1,2 +1,2 @@
-# <br>Pizza-Hut<\br>
+# <br>Pizza-Hut
 A simple webpage is designed using html and css. 
